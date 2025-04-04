@@ -1,0 +1,13 @@
+{
+  "patient_name": "Marta Sharapova Date",
+  "patient_address": "9 tennis court, new Russia, DC",
+  "medicines": "ky\nvant |\nPrednisone 20 mg\nLialda 2.4 gram ,\n|",
+  "directions": "",
+  "refill": "2",
+  "ai_analysis": {
+    "diagnosis": "Based on medications, possible conditions include: Ulcerative Colitis, Autoimmune Disorders, Inflammatory Bowel Disease, Allergic Reactions, Inflammation",
+    "routine": "For prednisone: Take with food in the morning. Monitor blood pressure regularly.\nFor lialda: Take with food. Avoid antacids 2 hours before or after.\nGeneral: Maintain regular sleep schedule and stay hydrated.",
+    "diet": "For prednisone: Low sodium, high potassium diet. Avoid alcohol.\nFor lialda: High fiber diet. Stay well hydrated.\nGeneral: Balanced diet rich in fruits, vegetables, and whole grains.",
+    "warnings": "Prednisone may cause: increased appetite, mood changes, weight gain, high blood pressure\nLialda may cause: headache, nausea, abdominal pain, diarrhea\n\nConsult your doctor if you experience severe or persistent side effects."
+  }
+}
