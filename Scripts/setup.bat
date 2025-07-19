@@ -1,5 +1,5 @@
 @echo off
-echo Medical Data Extraction - Complete Setup
+echo RxTract - Medical Data Extractor Setup
 echo =======================================
 echo.
 

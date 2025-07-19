@@ -1,5 +1,5 @@
 @echo off
-echo Starting Medical Data Extraction Backend Server...
+echo Starting RxTract Backend...
 echo.
 
 REM Activate virtual environment
