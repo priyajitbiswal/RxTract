@@ -57,9 +57,6 @@ For this project we have two types of Medical Documents.
 1. Patient Medical Record
 2. Prescription
 
-We are going to extract some important fields from these documents.
-![4.jpg](4.jpg)
-
 ### Why this project?
 Though I have been learning Data Science, then why am I doing this project? Mainly there are 3 reasons.
 01. OCR is a subset of Computer Vision. OCR can be used in an NLP project like summarizing text using LLM.
@@ -73,7 +70,6 @@ Though I have been learning Data Science, then why am I doing this project? Main
 - **Step 4:** Finding useful information from text using `RegEx` and returning in JSON format
 - **Step 5:** Creating a `FastAPI backend server` which serves data extraction requests by accepting a pdf_file, file_format and returning a JSON object.
 - **Step 6:** To create a Demo of `frontend UI using Streamlit` and connect it with our FastAPI server using Python Requests module.
-![Project Execution Steps](8.jpg)
 
 ## <a name="a4">4. Code Walkthrough</a>
 Explore notebooks and source code of this project.
