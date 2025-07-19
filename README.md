@@ -6,7 +6,6 @@
 [![Tesseract](https://img.shields.io/badge/Tesseract-5.5.0-orange.svg)](https://github.com/tesseract-ocr/tesseract)
 [![SmolDocling](https://img.shields.io/badge/SmolDocling-AI%20Enhanced-purple.svg)](https://huggingface.co/docs/transformers)
 
-> **🏆 Spectrum'25 VIT Hackathon Winner Project**
 
 An intelligent OCR-powered medical document processing system enhanced with AI analysis capabilities. RxTract transforms unstructured medical documents (prescriptions and patient records) into structured, actionable data using advanced computer vision, natural language processing, and AI-driven insights.
 
